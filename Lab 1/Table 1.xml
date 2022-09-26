@@ -1,6 +1,6 @@
 <products>
 
-<prd_info ID=1>
+<prd_info ID="1">
 <id>11</id>
 <name> Samsung </name>
 <price> 35000 </price>
@@ -8,7 +8,7 @@
 <status> 1 </status>
 </prd_info>
 
-<prd_info ID=2>
+<prd_info ID="2">
 <id>20</id>
 <name> HTC </name>
 <price> 65300 </price>
@@ -17,7 +17,7 @@
 </prd_info>
 
 
-<prd_info ID=3>
+<prd_info ID="3">
 <id>23</id>
 <name> Nokia </name>
 <price> 25100 </price>
