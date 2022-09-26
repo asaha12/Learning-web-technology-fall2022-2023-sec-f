@@ -2,19 +2,31 @@
 <p_info serial_id="1">
 <s_id>23 </s_id>
 <name> John Carter </name>
-<admission_date> 25/12/2015 </admission_date>
+<admission_date date="1">
+<date>25</date>
+<month>12</month>
+<year>2015</year>
+</admission_date>
 </p_info>
 
 <p_info serial_id="2">
 <s_id>29</s_id>
 <name> Bob Marshal </name>
-<admission_date> 13/01/2019 </admission_date>
+<admission_date date="2">
+<date>13</date>
+<month>01</month>
+<year>1999</year>
+</admission_date>
 </p_info>
 
 <p_info serial_id="3">
 <s_id>35</s_id>
 <name> Clark Kent </name>
-<admission_date> 17/06/2005 </admission_date>
+<admission_date date="3">
+<date>17</date>
+<month>06</month>
+<year>2005</year>
+</admission_date>
 </p_info>
 
 
