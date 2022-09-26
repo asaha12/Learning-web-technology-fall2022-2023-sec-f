@@ -2,7 +2,12 @@
 <person_data id="1">
 <p_id>1</p_id>
 <p_name>John Doe</p_name>
-<address>H# 38, R#3, Banani, Dhaka</address>
+<address a="1">
+<flat></flat>
+<house>38</house>
+<road>3</road>
+<area>Banani, Dhaka</area>
+</address>
 <department>Sales</department>
 <salary>$20000</salary>
 </person_data>
@@ -10,7 +15,12 @@
 <person_data id="2">
 <p_id>2</p_id>
 <p_name>Mark Zuckerberg</p_name>
-<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+<address a="2">
+<flat>A/1</flat>
+<house>20</house>
+<road>18</road>
+<area>Mirpur, Dhaka</area>
+</address>
 <department>Acccounts</department>
 <salary>$12000</salary>
 </person_data>
@@ -18,7 +28,12 @@
 <person_data id="3">
 <p_id>3</p_id>
 <p_name> Ala Voski</p_name>
-<address>H# 38, R#3, Motijheel </address>
+<address a="3">
+<flat></flat>
+<house>38</house>
+<road>3</road>
+<area>Motijheel</area>
+</address>
 <department>Human Resource</department>
 <salary>$30000</salary>
 </person_data>
